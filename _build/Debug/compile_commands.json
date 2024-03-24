@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/raccoonhands/eclipse-workspace-2/GUIandEffects/_build/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/raccoonhands/eclipse-workspace-2/GUIandEffects/./headers -isystem /usr/include/opencv4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++17 -o CMakeFiles/MyQtExecutable.dir/source/main.cpp.o -c /home/raccoonhands/eclipse-workspace-2/GUIandEffects/source/main.cpp",
+  "file": "/home/raccoonhands/eclipse-workspace-2/GUIandEffects/source/main.cpp"
+},
+{
+  "directory": "/home/raccoonhands/eclipse-workspace-2/GUIandEffects/_build/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/raccoonhands/eclipse-workspace-2/GUIandEffects/./headers -isystem /usr/include/opencv4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++17 -o CMakeFiles/MyQtExecutable.dir/source/MainMenu.cpp.o -c /home/raccoonhands/eclipse-workspace-2/GUIandEffects/source/MainMenu.cpp",
+  "file": "/home/raccoonhands/eclipse-workspace-2/GUIandEffects/source/MainMenu.cpp"
+}
+]

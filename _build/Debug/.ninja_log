@@ -1,0 +1,9 @@
+# ninja log v5
+2	36	1711242437929455807	CMakeFiles/MyExecutable.dir/main.cpp.o	f19378c44c576227
+2	176	1711241812388560027	CMakeFiles/microui.dir/external/microui/microui.c.o	e88ef40a7f7b90d8
+176	302	1711241812508560171	libmicroui.a	49f67e8ced87710c
+3	1787	1711248484643551492	CMakeFiles/MyQtExecutable.dir/main.cpp.o	1e9f8f91813716df
+3832	4499	1711250449532874244	MyQtExecutable	c1a66cd850e9360e
+3	2906	1711250447945637196	CMakeFiles/MyQtExecutable.dir/source/main.cpp.o	c255e9bdebf5031c
+1	4	0	clean	a31eedcededa8236
+4	3832	1711250448869193317	CMakeFiles/MyQtExecutable.dir/source/MainMenu.cpp.o	845f1c8b264af493

@@ -1,0 +1,3 @@
+/home/raccoonhands/eclipse-workspace-2/GUIandEffects/_build/Debug/CMakeFiles/MyQtExecutable.dir
+/home/raccoonhands/eclipse-workspace-2/GUIandEffects/_build/Debug/CMakeFiles/edit_cache.dir
+/home/raccoonhands/eclipse-workspace-2/GUIandEffects/_build/Debug/CMakeFiles/rebuild_cache.dir
