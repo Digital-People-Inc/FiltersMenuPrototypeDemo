@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/raccoonhands/Programming/Code/DP/FiltersMenuPrototypeDemo/build",
+  "command": "/usr/bin/c++ -I/home/raccoonhands/Programming/Code/DP/FiltersMenuPrototypeDemo/./headers -isystem /usr/include/opencv4 -g -std=gnu++17 -o CMakeFiles/Hub.dir/source/main.cpp.o -c /home/raccoonhands/Programming/Code/DP/FiltersMenuPrototypeDemo/source/main.cpp",
+  "file": "/home/raccoonhands/Programming/Code/DP/FiltersMenuPrototypeDemo/source/main.cpp"
+},
+{
+  "directory": "/home/raccoonhands/Programming/Code/DP/FiltersMenuPrototypeDemo/build",
+  "command": "/usr/bin/c++ -I/home/raccoonhands/Programming/Code/DP/FiltersMenuPrototypeDemo/./headers -isystem /usr/include/opencv4 -g -std=gnu++17 -o CMakeFiles/Hub.dir/source/MainMenu.cpp.o -c /home/raccoonhands/Programming/Code/DP/FiltersMenuPrototypeDemo/source/MainMenu.cpp",
+  "file": "/home/raccoonhands/Programming/Code/DP/FiltersMenuPrototypeDemo/source/MainMenu.cpp"
+}
+]
